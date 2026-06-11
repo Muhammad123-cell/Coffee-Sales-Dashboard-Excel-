@@ -121,14 +121,6 @@ The dashboard helps answer important business questions such as:
 
 ---
 
-## Dashboard Screenshot
-
-### Main Dashboard
-
-![Coffee Sales Dashboard](screenshots/dashboard.png)
-
----
-
 ## Skills Demonstrated
 
 * Data Cleaning
